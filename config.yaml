@@ -1,0 +1,23 @@
+train: /content/Dataset/images/train
+val: /content/Dataset/images/val
+names:
+  0: Apple Crimson Snow
+  1: Apple Golden 2
+  2: Apple Granny Smith
+  3: Apple Red Yellow 1
+  4: Avocado ripe
+  5: Beetroot
+  6: Cantaloupe 2
+  7: Carambula
+  8: Cocos
+  9: Corn Husk
+  10: Granadilla
+  11: Grapefruit White
+  12: Huckleberry
+  13: Kaki
+  14: Kohlrabi
+  15: Lemon
+  16: Limes
+  17: Onion Red
+  18: Papaya
+  19: Pear Stone
